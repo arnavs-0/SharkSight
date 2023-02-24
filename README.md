@@ -92,6 +92,7 @@ source interfaces.d/eth0
 ```
 1. `sudo reboot`
  
+> Note: You must also set a static ip address to the RoboRio, navigate to the RoboRio Dashboard `172.22.11.2` over USB or `roborio-TEAM-frc.local`
 ### Running SharkSight
 To run SharkSight, run the following command:
 
